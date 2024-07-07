@@ -3,11 +3,6 @@
 </script>
 
 <template>
-  <div>
-    <h1>
-      This is the composition view
-    </h1>
-  </div>
 
 </template>
 

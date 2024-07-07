@@ -4,7 +4,8 @@ import { Button } from '@/components/ui/button'
 
 <template>
   <main>
-    <h1> THIS IS THE HOME PAGE </h1>
-    <Button>Click me!</Button>
+    <h1>
+      This should be a landing page and introduces how the web app work
+    </h1>
   </main>
 </template>
