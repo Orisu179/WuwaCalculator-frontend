@@ -7,7 +7,7 @@ const mode = useColorMode();
 </script>
 
 <template>
-  <div class="flex items-center justify-between">
+  <div class="flex items-center justify-center">
     <DropdownMenu>
       <DropdownMenuTrigger as-child>
         <Button variant="outline">
@@ -23,9 +23,9 @@ const mode = useColorMode();
         <DropdownMenuItem @click="mode = 'dark'">
           Dark
         </DropdownMenuItem>
-        <DropdownMenu @click="mode = 'auto'">
+        <DropdownMenuItem @click="mode = 'auto'">
           System
-        </DropdownMenu>
+        </DropdownMenuItem>
       </DropdownMenuContent>
     </DropdownMenu>
   </div>
