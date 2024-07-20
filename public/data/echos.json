@@ -1,0 +1,286 @@
+[
+  {
+    "cd": 20,
+    "concerto": 0.0,
+    "dmg_percent": 0.0,
+    "has_buff": false,
+    "hits": 0,
+    "modifier": [
+      "Ec"
+    ],
+    "name": "N/A",
+    "resonance": 0.0,
+    "set": "N/A",
+    "time": 0.0
+  },
+  {
+    "cd": 20,
+    "concerto": 0.0,
+    "dmg_percent": 808.0,
+    "has_buff": true,
+    "hits": 3,
+    "modifier": [
+      "Ec",
+      "Fu"
+    ],
+    "name": "Inferno Rider",
+    "resonance": 12.6,
+    "set": "Molten Rift",
+    "time": 2.8
+  },
+  {
+    "cd": 20,
+    "concerto": 0.0,
+    "dmg_percent": 808.0,
+    "has_buff": true,
+    "hits": 3,
+    "modifier": [
+      "Ec",
+      "Fu"
+    ],
+    "name": "Inferno Rider (Swap)",
+    "resonance": 12.6,
+    "set": "Molten Rift",
+    "time": 1.5
+  },
+  {
+    "cd": 20,
+    "concerto": 0.0,
+    "dmg_percent": 145.92,
+    "has_buff": true,
+    "hits": 1,
+    "modifier": [
+      "Ec",
+      "Gl"
+    ],
+    "name": "Bell-Borne Geochelone",
+    "resonance": 4.55,
+    "set": "Rejuvenating Glow",
+    "time": 0.25
+  },
+  {
+    "cd": 20,
+    "concerto": 0.0,
+    "dmg_percent": 145.92,
+    "has_buff": true,
+    "hits": 1,
+    "modifier": [
+      "Ec",
+      "Gl"
+    ],
+    "name": "Bell-Borne Geochelone (Swap)",
+    "resonance": 4.55,
+    "set": "Rejuvenating Glow",
+    "time": 0.25
+  },
+  {
+    "cd": 20,
+    "concerto": 0.0,
+    "dmg_percent": 310.56,
+    "has_buff": true,
+    "hits": 1,
+    "modifier": [
+      "Ec",
+      "Ha"
+    ],
+    "name": "Impermanence Heron",
+    "resonance": 4.85,
+    "set": "Moonlit Clouds",
+    "time": 1.5
+  },
+  {
+    "cd": 20,
+    "concerto": 0.0,
+    "dmg_percent": 310.56,
+    "has_buff": true,
+    "hits": 1,
+    "modifier": [
+      "Ec",
+      "Ha"
+    ],
+    "name": "Impermanence Heron (Swap)",
+    "resonance": 4.85,
+    "set": "Moonlit Clouds",
+    "time": 0.25
+  },
+  {
+    "cd": 20,
+    "concerto": 0.0,
+    "dmg_percent": 528.64,
+    "has_buff": true,
+    "hits": 3,
+    "modifier": [
+      "Ec",
+      "Ele"
+    ],
+    "name": "Mech Abomination",
+    "resonance": 2.28,
+    "set": "Lingering Tunes",
+    "time": 0.25
+  },
+  {
+    "cd": 20,
+    "concerto": 0.0,
+    "dmg_percent": 528.64,
+    "has_buff": true,
+    "hits": 3,
+    "modifier": [
+      "Ec",
+      "Ele"
+    ],
+    "name": "Mech Abomination (Swap)",
+    "resonance": 2.28,
+    "set": "Lingering Tunes",
+    "time": 0.25
+  },
+  {
+    "cd": 20,
+    "concerto": 0.0,
+    "dmg_percent": 585.6,
+    "has_buff": true,
+    "hits": 5,
+    "modifier": [
+      "Ec",
+      "Ele"
+    ],
+    "name": "Tempest Mephis",
+    "resonance": 9.14,
+    "set": "Void Thunder",
+    "time": 3.0
+  },
+  {
+    "cd": 20,
+    "concerto": 0.0,
+    "dmg_percent": 409.92,
+    "has_buff": false,
+    "hits": 4,
+    "modifier": [
+      "Ec",
+      "Ele"
+    ],
+    "name": "Tempest Mephis (Swap)",
+    "resonance": 6.4,
+    "set": "Void Thunder",
+    "time": 0.25
+  },
+  {
+    "cd": 20,
+    "concerto": 0.0,
+    "dmg_percent": 540.8,
+    "has_buff": false,
+    "hits": 6,
+    "modifier": [
+      "Ec",
+      "Ha"
+    ],
+    "name": "Dreamless",
+    "resonance": 8.42,
+    "set": "Sun-sinking Eclipse",
+    "time": 3.0
+  },
+  {
+    "cd": 20,
+    "concerto": 0.0,
+    "dmg_percent": 540.8,
+    "has_buff": false,
+    "hits": 6,
+    "modifier": [
+      "Ec",
+      "Ha"
+    ],
+    "name": "Dreamless (Swap)",
+    "resonance": 8.42,
+    "set": "Sun-sinking Eclipse",
+    "time": 0.25
+  },
+  {
+    "cd": 20,
+    "concerto": 0.0,
+    "dmg_percent": 667.2,
+    "has_buff": true,
+    "hits": 3,
+    "modifier": [
+      "Ec",
+      "Gl"
+    ],
+    "name": "Lampylumen Myriad",
+    "resonance": 10.41,
+    "set": "Freezing Frost",
+    "time": 2.0
+  },
+  {
+    "cd": 20,
+    "concerto": 0.0,
+    "dmg_percent": 667.2,
+    "has_buff": true,
+    "hits": 3,
+    "modifier": [
+      "Ec",
+      "Gl"
+    ],
+    "name": "Lampylumen Myriad (Swap)",
+    "resonance": 10.41,
+    "set": "Freezing Frost",
+    "time": 0.25
+  },
+  {
+    "cd": 20,
+    "concerto": 0.0,
+    "dmg_percent": 393.59,
+    "has_buff": true,
+    "hits": 2,
+    "modifier": [
+      "Ec",
+      "Sp"
+    ],
+    "name": "Mourning Aix",
+    "resonance": 6.15,
+    "set": "Celestial Light",
+    "time": 2.0
+  },
+  {
+    "cd": 20,
+    "concerto": 0.0,
+    "dmg_percent": 393.59,
+    "has_buff": true,
+    "hits": 2,
+    "modifier": [
+      "Ec",
+      "Sp"
+    ],
+    "name": "Mourning Aix (Swap)",
+    "resonance": 6.15,
+    "set": "Celestial Light",
+    "time": 0.25
+  },
+  {
+    "cd": 20,
+    "concerto": 0.0,
+    "dmg_percent": 243.22,
+    "has_buff": true,
+    "hits": 8,
+    "modifier": [
+      "Ec",
+      "Sp"
+    ],
+    "name": "Jué",
+    "resonance": 3.78,
+    "set": "Celestial Light",
+    "time": 0.01
+  },
+  {
+    "cd": 20,
+    "concerto": 0.0,
+    "dmg_percent": 243.22,
+    "has_buff": true,
+    "hits": 8,
+    "modifier": [
+      "Ec",
+      "Sp"
+    ],
+    "name": "Jué (Swap)",
+    "resonance": 3.78,
+    "set": "Celestial Light",
+    "time": 0.01
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "base_atk": 0.0,
+    "main_stat": "Attack",
+    "main_stat_amount": 0.0,
+    "name": "Nullify Damage",
+    "weapon_type": "All"
+  },
+  {
+    "base_atk": 40.0,
+    "main_stat": "Attack",
+    "main_stat_amount": 12.0,
+    "name": "Cosmic Ripples (5☆)",
+    "weapon_type": "Rectifier"
+  },
+  {
+    "base_atk": 40.0,
+    "main_stat": "Crit",
+    "main_stat_amount": 8.0,
+    "name": "Stringmaster (5☆)",
+    "weapon_type": "Rectifier"
+  },
+  {
+    "base_atk": 27.0,
+    "main_stat": "Energy Regen",
+    "main_stat_amount": 11.52,
+    "name": "Variation (4☆)",
+    "weapon_type": "Rectifier"
+  },
+  {
+    "base_atk": 27.0,
+    "main_stat": "Energy Regen",
+    "main_stat_amount": 11.52,
+    "name": "Rectifier#25 (4☆)",
+    "weapon_type": "Rectifier"
+  },
+  {
+    "base_atk": 31.0,
+    "main_stat": "Attack",
+    "main_stat_amount": 8.1,
+    "name": "Jinzhou Keeper (4☆)",
+    "weapon_type": "Rectifier"
+  },
+  {
+    "base_atk": 33.0,
+    "main_stat": "Health",
+    "main_stat_amount": 6.75,
+    "name": "Comet Flare (4☆)",
+    "weapon_type": "Rectifier"
+  },
+  {
+    "base_atk": 33.0,
+    "main_stat": "Crit",
+    "main_stat_amount": 4.5,
+    "name": "Augment (4☆)",
+    "weapon_type": "Rectifier"
+  },
+  {
+    "base_atk": 26.0,
+    "main_stat": "Attack",
+    "main_stat_amount": 5.4,
+    "name": "Rectifier of Night (3☆)",
+    "weapon_type": "Rectifier"
+  },
+  {
+    "base_atk": 47.0,
+    "main_stat": "Crit",
+    "main_stat_amount": 5.4,
+    "name": "Emerald of Genesis (5☆)",
+    "weapon_type": "Sword"
+  },
+  {
+    "base_atk": 27.0,
+    "main_stat": "Energy Regen",
+    "main_stat_amount": 11.52,
+    "name": "Scale: Slasher (4☆)",
+    "weapon_type": "Sword"
+  },
+  {
+    "base_atk": 31.0,
+    "main_stat": "Attack",
+    "main_stat_amount": 8.1,
+    "name": "Sword#18 (4☆)",
+    "weapon_type": "Sword"
+  },
+  {
+    "base_atk": 33.0,
+    "main_stat": "Attack",
+    "main_stat_amount": 6.75,
+    "name": "Commando of Conviction (4☆)",
+    "weapon_type": "Sword"
+  },
+  {
+    "base_atk": 33.0,
+    "main_stat": "Attack",
+    "main_stat_amount": 6.75,
+    "name": "Lunar Cutter (4☆)",
+    "weapon_type": "Sword"
+  },
+  {
+    "base_atk": 31.0,
+    "main_stat": "Attack",
+    "main_stat_amount": 8.1,
+    "name": "Lumingloss (4☆)",
+    "weapon_type": "Sword"
+  },
+  {
+    "base_atk": 47.0,
+    "main_stat": "Attack",
+    "main_stat_amount": 8.1,
+    "name": "Lustrous Razor (5☆)",
+    "weapon_type": "Broadblade"
+  },
+  {
+    "base_atk": 47.0,
+    "main_stat": "Crit Dmg",
+    "main_stat_amount": 10.8,
+    "name": "Verdant Summit (5☆)",
+    "weapon_type": "Broadblade"
+  },
+  {
+    "base_atk": 47.0,
+    "main_stat": "Crit",
+    "main_stat_amount": 5.4,
+    "name": "Ages of Harvest (5☆)",
+    "weapon_type": "Broadblade"
+  },
+  {
+    "base_atk": 27.0,
+    "main_stat": "Energy Regen",
+    "main_stat_amount": 11.52,
+    "name": "Discord (4☆)",
+    "weapon_type": "Broadblade"
+  },
+  {
+    "base_atk": 33.0,
+    "main_stat": "Energy Regen",
+    "main_stat_amount": 7.2,
+    "name": "Broadblade#41 (4☆)",
+    "weapon_type": "Broadblade"
+  },
+  {
+    "base_atk": 27.0,
+    "main_stat": "Defense",
+    "main_stat_amount": 13.68,
+    "name": "Dauntless Evernight (4☆)",
+    "weapon_type": "Broadblade"
+  },
+  {
+    "base_atk": 33.0,
+    "main_stat": "Attack",
+    "main_stat_amount": 6.75,
+    "name": "Helios Cleaver (4☆)",
+    "weapon_type": "Broadblade"
+  },
+  {
+    "base_atk": 33.0,
+    "main_stat": "Crit",
+    "main_stat_amount": 4.5,
+    "name": "Autumntrace (4☆)",
+    "weapon_type": "Broadblade"
+  },
+  {
+    "base_atk": 47.0,
+    "main_stat": "Attack",
+    "main_stat_amount": 8.1,
+    "name": "Abyss Surges (5☆)",
+    "weapon_type": "Gauntlets"
+  },
+  {
+    "base_atk": 27.0,
+    "main_stat": "Energy Regen",
+    "main_stat_amount": 11.52,
+    "name": "Marcato (4☆)",
+    "weapon_type": "Gauntlets"
+  },
+  {
+    "base_atk": 27.0,
+    "main_stat": "Defense",
+    "main_stat_amount": 13.68,
+    "name": "Amity Accord (4☆)",
+    "weapon_type": "Gauntlets"
+  },
+  {
+    "base_atk": 31.0,
+    "main_stat": "Energy Regen",
+    "main_stat_amount": 8.64,
+    "name": "Gauntlets#21D (4☆)",
+    "weapon_type": "Gauntlets"
+  },
+  {
+    "base_atk": 33.0,
+    "main_stat": "Crit",
+    "main_stat_amount": 4.5,
+    "name": "Stonard (4☆)",
+    "weapon_type": "Gauntlets"
+  },
+  {
+    "base_atk": 33.0,
+    "main_stat": "Attack",
+    "main_stat_amount": 6.75,
+    "name": "Hollow Mirage (4☆)",
+    "weapon_type": "Gauntlets"
+  },
+  {
+    "base_atk": 24.0,
+    "main_stat": "Crit Dmg",
+    "main_stat_amount": 9.0,
+    "name": "Originite: Type IV (3☆)",
+    "weapon_type": "Gauntlets"
+  },
+  {
+    "base_atk": 46.0,
+    "main_stat": "Crit",
+    "main_stat_amount": 5.4,
+    "name": "Static Mist (5☆)",
+    "weapon_type": "Pistols"
+  },
+  {
+    "base_atk": 27.0,
+    "main_stat": "Energy Regen",
+    "main_stat_amount": 11.52,
+    "name": "Cadenza (4☆)",
+    "weapon_type": "Pistols"
+  },
+  {
+    "base_atk": 33.0,
+    "main_stat": "Attack",
+    "main_stat_amount": 6.75,
+    "name": "Undying Flame (4☆)",
+    "weapon_type": "Pistols"
+  },
+  {
+    "base_atk": 33.0,
+    "main_stat": "Attack",
+    "main_stat_amount": 6.75,
+    "name": "Novaburst (4☆)",
+    "weapon_type": "Pistols"
+  },
+  {
+    "base_atk": 31.0,
+    "main_stat": "Attack",
+    "main_stat_amount": 8.1,
+    "name": "Pistols#26 (4☆)",
+    "weapon_type": "Pistols"
+  },
+  {
+    "base_atk": 31.0,
+    "main_stat": "Attack",
+    "main_stat_amount": 8.1,
+    "name": "Thunderbolt (4☆)",
+    "weapon_type": "Pistols"
+  }
+]

@@ -1,0 +1,3692 @@
+[
+  {
+    "inherent_skills": [
+      {
+        "active": true,
+        "applies_to": "Next",
+        "concerto": 0.0,
+        "duration": 8.0,
+        "forte": 0.0,
+        "name": "Jiyan Coordinated Attack",
+        "resonance": 0.0,
+        "stack_interval": 1.0,
+        "stack_limit": 2.0,
+        "type1": "Dmg",
+        "type3": "Passive",
+        "value_percent": 313.4
+      },
+      {
+        "active": true,
+        "applies_to": "Self",
+        "concerto": 0.0,
+        "duration": 15.0,
+        "forte": 0.0,
+        "name": "Inherent Skill: Heavenly Balance",
+        "resonance": 0.0,
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Attack",
+        "value_percent": 10.0
+      },
+      {
+        "active": true,
+        "applies_to": "Self",
+        "concerto": 0.0,
+        "duration": 8.0,
+        "forte": 0.0,
+        "name": "Inherent Skill: Tempest Taming",
+        "resonance": 0.0,
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Crit Dmg",
+        "value_percent": 12.0
+      }
+    ],
+    "intro": {
+      "concerto": 10.0,
+      "dmg_percent": 100.0,
+      "forte": 0.0,
+      "hits": 1,
+      "modifier": [],
+      "name": "Intro: Tactical Strike",
+      "resonance": 10.0,
+      "time": 2.15
+    },
+    "name": "Jiyan",
+    "other_skills": [
+      {
+        "concerto": 15.0,
+        "dmg_percent": 67.86,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 1,
+        "modifier": [
+          "Sk",
+          "Ha",
+          "Df"
+        ],
+        "name": "Skill: Fortified Defense",
+        "resonance": 10.0,
+        "time": 0.75
+      },
+      {
+        "concerto": 15.0,
+        "dmg_percent": 67.86,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 1,
+        "modifier": [
+          "Sk",
+          "Ha",
+          "Df"
+        ],
+        "name": "Skill: Fortified Defense (Cancel)",
+        "resonance": 10.0,
+        "time": 0.25
+      },
+      {
+        "concerto": 20.0,
+        "dmg_percent": 226.2,
+        "forte": 0.0,
+        "freeze_time": 2.19,
+        "hits": 1,
+        "modifier": [
+          "Rl",
+          "Ha",
+          "Df"
+        ],
+        "name": "Liberation: Unmovable",
+        "resonance": -125.0,
+        "time": 2.27
+      },
+      {
+        "concerto": 3.5,
+        "dmg_percent": 45.34,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 1,
+        "modifier": [
+          "No",
+          "Ha"
+        ],
+        "name": "Basic: Concealed Edge 1 (Swap)",
+        "resonance": 1.16,
+        "time": 0.25
+      },
+      {
+        "concerto": 3.9,
+        "dmg_percent": 42.67,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 1,
+        "modifier": [
+          "No",
+          "Ha"
+        ],
+        "name": "Basic: Concealed Edge 2 (Swap)",
+        "resonance": 1.08,
+        "time": 0.25
+      },
+      {
+        "concerto": 16.9,
+        "dmg_percent": 98.67,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 2,
+        "modifier": [
+          "No",
+          "Ha"
+        ],
+        "name": "Basic: Concealed Edge 2 3 (Cancel)",
+        "resonance": 6.68,
+        "time": 1.73
+      },
+      {
+        "concerto": 16.9,
+        "dmg_percent": 98.67,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 2,
+        "modifier": [
+          "No",
+          "Ha"
+        ],
+        "name": "Basic: Concealed Edge 2 3 (Swap)",
+        "resonance": 6.68,
+        "time": 0.65
+      },
+      {
+        "concerto": 16.9,
+        "dmg_percent": 144.01,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 3,
+        "modifier": [
+          "No",
+          "Ha"
+        ],
+        "name": "Basic: Concealed Edge 1 2 3 (Swap)",
+        "resonance": 6.68,
+        "time": 1.1
+      },
+      {
+        "concerto": 25.0,
+        "dmg_percent": 234.67,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 3,
+        "modifier": [
+          "No",
+          "Ha"
+        ],
+        "name": "Basic: Concealed Edge 2 3 4 (Swap)",
+        "resonance": 9.64,
+        "time": 2.02
+      },
+      {
+        "concerto": 28.5,
+        "dmg_percent": 280.01,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 4,
+        "modifier": [
+          "No",
+          "Ha"
+        ],
+        "name": "Basic: Concealed Edge x4 (Swap)",
+        "resonance": 10.8,
+        "time": 2.4
+      }
+    ],
+    "outro": {
+      "concerto": -100.0,
+      "dmg_percent": 0.0,
+      "forte": 0.0,
+      "hits": 1,
+      "modifier": [
+        "Ou"
+      ],
+      "name": "Outro: Discipline",
+      "resonance": 0.0,
+      "time": 0.0
+    },
+    "resonance_chains": [
+      {
+        "applies_to": "Self",
+        "name": "Benevolence"
+      },
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 8.0,
+        "name": "Spectation (Crit)",
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Crit",
+        "value_percent": 16.0
+      },
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 8.0,
+        "name": "Spectation (Crit DMG)",
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Crit Dmg",
+        "value_percent": 32.0
+      },
+      {
+        "applies_to": "Self",
+        "name": "Prudence"
+      },
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 0.0,
+        "name": "Resolution",
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Multiplier",
+        "value_percent": 50.0
+      },
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 999.0,
+        "name": "Fortitude",
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Bonus",
+        "value_percent": 40.0
+      }
+    ]
+  },
+  {
+    "inherent_skills": [
+      {
+        "active": true,
+        "applies_to": "Self",
+        "concerto": 0.0,
+        "duration": 10.0,
+        "forte": 0.0,
+        "name": "Angry Cosmos",
+        "resonance": 0.0,
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Bonus",
+        "value_percent": 10.0
+      },
+      {
+        "active": true,
+        "applies_to": "Self",
+        "concerto": 0.0,
+        "duration": 10.0,
+        "forte": 0.0,
+        "name": "Woolies Cheer Dance",
+        "resonance": 0.0,
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Bonus",
+        "value_percent": 10.0
+      },
+      {
+        "active": true,
+        "applies_to": "Self",
+        "concerto": 0.0,
+        "duration": 10.0,
+        "forte": 0.0,
+        "name": "Cosmos Rave",
+        "resonance": 0.0,
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Bonus",
+        "value_percent": 0.0
+      }
+    ],
+    "intro": {
+      "concerto": 10.0,
+      "dmg_percent": 100.0,
+      "forte": 0.0,
+      "hits": 1,
+      "modifier": [
+        "Fu",
+        "In"
+      ],
+      "name": "Intro: Woolies Can Help!",
+      "resonance": 10.0,
+      "time": 1.0
+    },
+    "name": "Encore",
+    "other_skills": [
+      {
+        "concerto": 21.51,
+        "dmg_percent": 478.84,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 7,
+        "modifier": [
+          "Sk",
+          "Fu"
+        ],
+        "name": "Skill: Flaming Woolies (On-Field)",
+        "resonance": 16.03,
+        "time": 2.87
+      },
+      {
+        "concerto": 15.0,
+        "dmg_percent": 308.24,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 6,
+        "modifier": [
+          "Sk",
+          "Fu"
+        ],
+        "name": "Skill: Flaming Woolies",
+        "resonance": 15.28,
+        "time": 0.25
+      },
+      {
+        "concerto": 5.0,
+        "dmg_percent": 170.6,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 1,
+        "modifier": [
+          "Sk",
+          "Fu"
+        ],
+        "name": "Skill: Energetic Welcome",
+        "resonance": 0.75,
+        "time": 1.0
+      },
+      {
+        "concerto": 10.0,
+        "dmg_percent": 168.0,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 1,
+        "modifier": [
+          "Rl",
+          "Fu"
+        ],
+        "name": "Forte: Cloudy Frenzy (On-Field)",
+        "resonance": 10.0,
+        "time": 3.37
+      },
+      {
+        "concerto": 10.0,
+        "dmg_percent": 168.0,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 1,
+        "modifier": [
+          "Rl",
+          "Fu"
+        ],
+        "name": "Forte: Cloudy Frenzy (Swap)",
+        "resonance": 10.0,
+        "time": 0.25
+      },
+      {
+        "concerto": 20.0,
+        "dmg_percent": 0.0,
+        "forte": 0.0,
+        "freeze_time": 2.21,
+        "hits": 0,
+        "modifier": [
+          "Rl",
+          "Fu"
+        ],
+        "name": "Liberation: Cosmos Rave",
+        "resonance": -125.0,
+        "time": 2.23
+      },
+      {
+        "concerto": 0.0,
+        "dmg_percent": 28.0,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 1,
+        "modifier": [
+          "No",
+          "Fu"
+        ],
+        "name": "Basic: Woolies Attack x1",
+        "resonance": 0.0,
+        "time": 0.53
+      },
+      {
+        "concerto": 0.0,
+        "dmg_percent": 61.3,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 2,
+        "modifier": [
+          "No",
+          "Fu"
+        ],
+        "name": "Basic: Woolies Attack x2",
+        "resonance": 0.0,
+        "time": 0.75
+      },
+      {
+        "concerto": 0.0,
+        "dmg_percent": 128.0,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 4,
+        "modifier": [
+          "No",
+          "Fu"
+        ],
+        "name": "Basic: Woolies Attack x3",
+        "resonance": 0.0,
+        "time": 1.1
+      },
+      {
+        "concerto": 0.0,
+        "dmg_percent": 204.7,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 8,
+        "modifier": [
+          "No",
+          "Fu"
+        ],
+        "name": "Basic: Woolies Attack x4",
+        "resonance": 0.0,
+        "time": 1.88
+      },
+      {
+        "concerto": 0.0,
+        "dmg_percent": 324.7,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 9,
+        "modifier": [
+          "No",
+          "Fu"
+        ],
+        "name": "Basic: Woolies Attack x5",
+        "resonance": 0.0,
+        "time": 3.3
+      },
+      {
+        "concerto": 0.0,
+        "dmg_percent": 324.7,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 9,
+        "modifier": [
+          "No",
+          "Fu"
+        ],
+        "name": "Basic: Woolies Attack Dodge Cancel",
+        "resonance": 0.0,
+        "time": 2.47
+      },
+      {
+        "concerto": 2.66,
+        "dmg_percent": 90.72,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 2,
+        "modifier": [
+          "No",
+          "Fu",
+          "Un"
+        ],
+        "name": "Basic: Cosmos Basic x1 Cancel",
+        "resonance": 1.32,
+        "time": 0.25
+      },
+      {
+        "concerto": 17.61,
+        "dmg_percent": 601.36,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 13,
+        "modifier": [
+          "No",
+          "Fu",
+          "Un"
+        ],
+        "name": "Basic: Cosmos Basic x4",
+        "resonance": 8.28,
+        "time": 2.53
+      },
+      {
+        "concerto": 17.61,
+        "dmg_percent": 601.36,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 13,
+        "modifier": [
+          "No",
+          "Fu",
+          "Un"
+        ],
+        "name": "Basic: Cosmos Basic x4 Dodge",
+        "resonance": 8.28,
+        "time": 2.97
+      },
+      {
+        "concerto": 10.0,
+        "dmg_percent": 389.18,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 7,
+        "modifier": [
+          "Rl",
+          "Fu",
+          "Un"
+        ],
+        "name": "Forte: Cosmos Rupture (On-Field)",
+        "resonance": 10.0,
+        "time": 3.37
+      },
+      {
+        "concerto": 10.0,
+        "dmg_percent": 389.18,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 7,
+        "modifier": [
+          "Rl",
+          "Fu",
+          "Un"
+        ],
+        "name": "Forte: Cosmos Rupture (Swap)",
+        "resonance": 10.0,
+        "time": 0.25
+      },
+      {
+        "concerto": 10.0,
+        "dmg_percent": 0.0,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 0,
+        "modifier": [
+          "Rl",
+          "Fu",
+          "Un"
+        ],
+        "name": "Forte: Cosmos Rupture (Previous Rota)",
+        "resonance": 10.0,
+        "time": 0.25
+      },
+      {
+        "concerto": 6.0,
+        "dmg_percent": 127.4,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 4,
+        "modifier": [
+          "Sk",
+          "Fu",
+          "Un"
+        ],
+        "name": "Skill: Cosmos Rampage",
+        "resonance": 4.92,
+        "time": 0.5
+      }
+    ],
+    "outro": {
+      "concerto": 0.0,
+      "dmg_percent": 707.04,
+      "forte": 0.0,
+      "hits": 4,
+      "modifier": [
+        "Fu",
+        "Ou"
+      ],
+      "name": "Outro: Thermal Field",
+      "resonance": 0.0,
+      "time": 0.0
+    },
+    "resonance_chains": [
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 6.0,
+        "name": "Wooly's Fairy Tale",
+        "stack_interval": 0.0,
+        "stack_limit": 4.0,
+        "type1": "StackingBuff",
+        "type3": "Bonus",
+        "value_percent": 3.0
+      },
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 0.0,
+        "name": "Sheep-Counting Lullaby",
+        "stack_interval": 10.0,
+        "stack_limit": 0.0,
+        "type1": "BuffEnergy",
+        "type3": "Resonance",
+        "value_percent": 10.0
+      },
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 0.0,
+        "name": "Fog? The Black Shores!",
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Multiplier",
+        "value_percent": 40.0
+      },
+      {
+        "active": false,
+        "applies_to": "Team",
+        "duration": 30.0,
+        "name": "Adventure? Let's go!",
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Bonus",
+        "value_percent": 20.0
+      },
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 0.0,
+        "name": "Hero Takes the Stage!",
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Bonus",
+        "value_percent": 35.0
+      },
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 10.0,
+        "name": "Woolies Save the World!",
+        "stack_interval": 0.0,
+        "stack_limit": 5.0,
+        "type1": "StackingBuff",
+        "type3": "Attack",
+        "value_percent": 5.0
+      }
+    ]
+  },
+  {
+    "inherent_skills": [
+      {
+        "active": true,
+        "applies_to": "Self",
+        "concerto": 0.0,
+        "duration": 8.0,
+        "forte": 0.0,
+        "name": "Condensation",
+        "resonance": 0.0,
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Bonus",
+        "value_percent": 20.0
+      },
+      {
+        "active": true,
+        "applies_to": "Self",
+        "concerto": 0.0,
+        "duration": 8.0,
+        "forte": 0.0,
+        "name": "Avalanche",
+        "resonance": 0.0,
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Bonus",
+        "value_percent": 20.0
+      },
+      {
+        "active": true,
+        "applies_to": "Self",
+        "concerto": 15.0,
+        "duration": 10.0,
+        "forte": 0.0,
+        "name": "Detonation: Ice Prism",
+        "resonance": 7.0,
+        "stack_interval": 0.0,
+        "stack_limit": 1.0,
+        "type1": "Dmg",
+        "type3": "Passive",
+        "value_percent": 40.0
+      },
+      {
+        "active": true,
+        "applies_to": "Self",
+        "concerto": 15.0,
+        "duration": 10.0,
+        "forte": 0.0,
+        "name": "Detonation: Ice Thorn",
+        "resonance": 2.0,
+        "stack_interval": 0.0,
+        "stack_limit": 1.0,
+        "type1": "Dmg",
+        "type3": "Passive",
+        "value_percent": 30.0
+      },
+      {
+        "active": true,
+        "applies_to": "Self",
+        "concerto": 15.0,
+        "duration": 10.0,
+        "forte": 0.0,
+        "name": "Detonation: Ice Glacier",
+        "resonance": 7.0,
+        "stack_interval": 0.0,
+        "stack_limit": 1.0,
+        "type1": "Dmg",
+        "type3": "Passive",
+        "value_percent": 70.0
+      },
+      {
+        "active": true,
+        "applies_to": "Next",
+        "concerto": 0.0,
+        "duration": 14.0,
+        "forte": 0.0,
+        "name": "Outro: Silversnow",
+        "resonance": 0.0,
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "BuffUntilSwap",
+        "type3": "Deepen",
+        "value_percent": 38.0
+      }
+    ],
+    "intro": {
+      "concerto": 10.0,
+      "dmg_percent": 70.0,
+      "forte": 0.0,
+      "hits": 1,
+      "modifier": [
+        "In",
+        "Gl"
+      ],
+      "name": "Intro: Freezing Thorns",
+      "resonance": 10.0,
+      "time": 1.0
+    },
+    "name": "Sanhua",
+    "other_skills": [
+      {
+        "concerto": 15.0,
+        "dmg_percent": 181.0,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 1,
+        "modifier": [
+          "Sk",
+          "Gl"
+        ],
+        "name": "Skill: Eternal Frost",
+        "resonance": 10.0,
+        "time": 1.0
+      },
+      {
+        "concerto": 20.0,
+        "dmg_percent": 407.16,
+        "forte": 0.0,
+        "freeze_time": 1.48,
+        "hits": 1,
+        "modifier": [
+          "Rl",
+          "Gl"
+        ],
+        "name": "Liberation: Glacial Gaze",
+        "resonance": -100.0,
+        "time": 1.62
+      },
+      {
+        "concerto": 7.5,
+        "dmg_percent": 187.4,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 1,
+        "modifier": [
+          "He",
+          "Gl"
+        ],
+        "name": "Forte: Detonate",
+        "resonance": 2.34,
+        "time": 1.04
+      },
+      {
+        "concerto": 7.5,
+        "dmg_percent": 187.4,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 1,
+        "modifier": [
+          "He",
+          "Gl"
+        ],
+        "name": "Forte: Detonate (Pre-Charge)",
+        "resonance": 2.34,
+        "time": 0.25
+      },
+      {
+        "concerto": 7.5,
+        "dmg_percent": 187.4,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 1,
+        "modifier": [
+          "He",
+          "Gl"
+        ],
+        "name": "Forte: Detonate (Swap)",
+        "resonance": 2.34,
+        "time": 0.02
+      },
+      {
+        "concerto": 1.0,
+        "dmg_percent": 43.4,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 1,
+        "modifier": [
+          "No",
+          "Gl"
+        ],
+        "name": "Basic: Frigid Light (Mid-air)",
+        "resonance": 0.51,
+        "time": 1.0
+      }
+    ],
+    "outro": {
+      "concerto": 0.0,
+      "dmg_percent": 0.0,
+      "forte": 0.0,
+      "hits": 0,
+      "modifier": [
+        "Ou"
+      ],
+      "name": "Outro: Silversnow",
+      "resonance": 0.0,
+      "time": 0.0
+    },
+    "resonance_chains": [
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 10.0,
+        "name": "Solitude's Embrace",
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Crit",
+        "value_percent": 15.0
+      },
+      {
+        "applies_to": "Self",
+        "name": "Snowy Clarity"
+      },
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 0.0,
+        "name": "Anomalous Vision",
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Bonus",
+        "value_percent": 24.5
+      },
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 5.0,
+        "name": "Blade Mastery",
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "BuffNext",
+        "type3": "Multiplier",
+        "value_percent": 120.0
+      },
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 0.0,
+        "name": "Unraveling Fate",
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Crit Dmg",
+        "value_percent": 100.0
+      },
+      {
+        "active": false,
+        "applies_to": "Team",
+        "duration": 20.0,
+        "name": "Daybreak Radiance",
+        "stack_interval": 0.0,
+        "stack_limit": 2.0,
+        "type1": "StackingBuff",
+        "type3": "Attack",
+        "value_percent": 10.0
+      }
+    ]
+  },
+  {
+    "inherent_skills": [
+      {
+        "active": true,
+        "applies_to": "Team",
+        "concerto": 0.0,
+        "duration": 26.0,
+        "forte": 0.0,
+        "name": "Gift of Nature",
+        "resonance": 0.0,
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Attack",
+        "value_percent": 20.0
+      },
+      {
+        "active": true,
+        "applies_to": "Team",
+        "concerto": 0.0,
+        "duration": 10.0,
+        "forte": 0.0,
+        "name": "Grace of Life",
+        "resonance": 0.0,
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type3": "Bonus",
+        "value_percent": 10.0
+      },
+      {
+        "active": true,
+        "applies_to": "Team",
+        "concerto": 0.0,
+        "duration": 12.0,
+        "forte": 0.0,
+        "name": "Verina Coordinated Attack",
+        "resonance": 0.0,
+        "stack_interval": 1.0,
+        "stack_limit": 0.0,
+        "type1": "Dmg",
+        "type3": "Passive",
+        "value_percent": 5.0
+      },
+      {
+        "active": true,
+        "applies_to": "Team",
+        "concerto": 0.0,
+        "duration": 30.0,
+        "forte": 0.0,
+        "name": "Outro: Blossom",
+        "resonance": 0.0,
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Deepen",
+        "value_percent": 15.0
+      }
+    ],
+    "intro": {
+      "concerto": 10.0,
+      "dmg_percent": 50.0,
+      "forte": 1.0,
+      "hits": 1,
+      "modifier": [
+        "Sp",
+        "In"
+      ],
+      "name": "Intro: Verdant Growth",
+      "resonance": 10.0,
+      "time": 1.9
+    },
+    "name": "Verina",
+    "other_skills": [
+      {
+        "concerto": 10.0,
+        "dmg_percent": 50.0,
+        "forte": 1.0,
+        "freeze_time": 0.0,
+        "hits": 1,
+        "modifier": [
+          "Sp",
+          "In"
+        ],
+        "name": "Intro: Verdant Growth (Swap)",
+        "resonance": 10.0,
+        "time": 0.9
+      },
+      {
+        "concerto": 30.0,
+        "dmg_percent": 90.0,
+        "forte": 1.0,
+        "freeze_time": 0.0,
+        "hits": 4,
+        "modifier": [
+          "Sk",
+          "Sp",
+          "Hl"
+        ],
+        "name": "Skill: Botany Experiment",
+        "resonance": 9.0,
+        "time": 1.0
+      },
+      {
+        "concerto": 30.0,
+        "dmg_percent": 90.0,
+        "forte": 1.0,
+        "freeze_time": 0.0,
+        "hits": 4,
+        "modifier": [
+          "Sk",
+          "Sp",
+          "Hl"
+        ],
+        "name": "Skill: Botany Experiment (Cancel)",
+        "resonance": 9.0,
+        "time": 0.25
+      },
+      {
+        "concerto": 16.53,
+        "dmg_percent": 34.02,
+        "forte": -1.0,
+        "freeze_time": 0.0,
+        "hits": 1,
+        "modifier": [
+          "No",
+          "Sp",
+          "Hl"
+        ],
+        "name": "Forte: Starflower Blooms (Mid-Air)",
+        "resonance": 1.41,
+        "time": 0.25
+      },
+      {
+        "concerto": 32.81,
+        "dmg_percent": 66.12,
+        "forte": -2.0,
+        "freeze_time": 0.0,
+        "hits": 2,
+        "modifier": [
+          "No",
+          "Sp",
+          "Hl"
+        ],
+        "name": "Forte: Starflower Blooms (Mid-Air) x2",
+        "resonance": 2.74,
+        "time": 0.5
+      },
+      {
+        "concerto": 50.93,
+        "dmg_percent": 112.14,
+        "forte": -3.0,
+        "freeze_time": 0.0,
+        "hits": 5,
+        "modifier": [
+          "No",
+          "Sp",
+          "Hl"
+        ],
+        "name": "Forte: Starflower Blooms (Mid-Air) x3",
+        "resonance": 4.63,
+        "time": 0.75
+      },
+      {
+        "concerto": 16.66,
+        "dmg_percent": 81.67,
+        "forte": -1.0,
+        "freeze_time": 0.0,
+        "hits": 1,
+        "modifier": [
+          "He",
+          "Sp",
+          "Hl"
+        ],
+        "name": "Forte: Starflower Blooms (Heavy)",
+        "resonance": 2.91,
+        "time": 0.25
+      },
+      {
+        "concerto": 20.0,
+        "dmg_percent": 100.0,
+        "forte": 0.0,
+        "freeze_time": 1.23,
+        "hits": 1,
+        "modifier": [
+          "Rl",
+          "Sp"
+        ],
+        "name": "Liberation: Arboreal Flourish",
+        "resonance": -175.0,
+        "time": 2.0
+      },
+      {
+        "concerto": 3.04,
+        "dmg_percent": 19.04,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 1,
+        "modifier": [
+          "No",
+          "Sp"
+        ],
+        "name": "Basic: Cultivation x1",
+        "resonance": 0.95,
+        "time": 0.5
+      },
+      {
+        "concerto": 22.42,
+        "dmg_percent": 140.4,
+        "forte": 1.0,
+        "freeze_time": 0.0,
+        "hits": 6,
+        "modifier": [
+          "No",
+          "Sp"
+        ],
+        "name": "Basic: Cultivation x5",
+        "resonance": 8.26,
+        "time": 3.5
+      },
+      {
+        "concerto": 22.42,
+        "dmg_percent": 140.4,
+        "forte": 1.0,
+        "freeze_time": 0.0,
+        "hits": 6,
+        "modifier": [
+          "No",
+          "Sp"
+        ],
+        "name": "Basic: Cultivation x5 (Cancel)",
+        "resonance": 8.26,
+        "time": 2.5
+      },
+      {
+        "concerto": 11.25,
+        "dmg_percent": 70.51,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 4,
+        "modifier": [
+          "No",
+          "Sp"
+        ],
+        "name": "Basic: Cultivation 1 2 3",
+        "resonance": 4.77,
+        "time": 1.18
+      },
+      {
+        "concerto": 4.1,
+        "dmg_percent": 25.74,
+        "forte": 1.0,
+        "freeze_time": 0.0,
+        "hits": 2,
+        "modifier": [
+          "No",
+          "Sp"
+        ],
+        "name": "Basic: Cultivation 3 (Cancel)",
+        "resonance": 1.28,
+        "time": 0.25
+      },
+      {
+        "concerto": 15.27,
+        "dmg_percent": 95.63,
+        "forte": 1.0,
+        "freeze_time": 0.0,
+        "hits": 4,
+        "modifier": [
+          "No",
+          "Sp"
+        ],
+        "name": "Basic: Cultivation 3 4 5",
+        "resonance": 4.77,
+        "time": 2.32
+      },
+      {
+        "concerto": 15.27,
+        "dmg_percent": 95.63,
+        "forte": 1.0,
+        "freeze_time": 0.0,
+        "hits": 4,
+        "modifier": [
+          "No",
+          "Sp"
+        ],
+        "name": "Basic: Cultivation 3 4 5 (Cancel)",
+        "resonance": 4.77,
+        "time": 1.4
+      }
+    ],
+    "outro": {
+      "concerto": -100.0,
+      "dmg_percent": 0.0,
+      "forte": 0.0,
+      "hits": 0,
+      "modifier": [
+        "Ou"
+      ],
+      "name": "Outro: Blossom",
+      "resonance": 0.0,
+      "time": 0.0
+    },
+    "resonance_chains": [
+      {
+        "applies_to": "Self",
+        "name": "Moment of Elegance"
+      },
+      {
+        "applies_to": "Self",
+        "name": "Sprouting Reflections (Applied Dynamically)"
+      },
+      {
+        "applies_to": "Self",
+        "name": "The Chance to Flourish"
+      },
+      {
+        "active": false,
+        "applies_to": "Team",
+        "duration": 24.0,
+        "name": "Blooming Embrace",
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Bonus",
+        "value_percent": 15.0
+      },
+      {
+        "applies_to": "Self",
+        "name": "Miraculous Bloom"
+      },
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 0.0,
+        "name": "Joyous Harvest",
+        "stack_interval": 0.0,
+        "stack_limit": 5.0,
+        "type1": "Buff",
+        "type3": "Multiplier",
+        "value_percent": 20.0
+      }
+    ]
+  },
+  {
+    "inherent_skills": [
+      {
+        "active": true,
+        "applies_to": "Self",
+        "concerto": 0.0,
+        "duration": 5.0,
+        "forte": 0.0,
+        "name": "Pain Immersion",
+        "resonance": 0.0,
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Crit",
+        "value_percent": 15.0
+      },
+      {
+        "active": true,
+        "applies_to": "Self",
+        "concerto": 0.0,
+        "duration": 15.0,
+        "forte": 0.0,
+        "name": "Deadly Focus",
+        "resonance": 0.0,
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "BuffUntilSwap",
+        "type3": "Bonus",
+        "value_percent": 10.0
+      },
+      {
+        "active": true,
+        "applies_to": "Self",
+        "concerto": 0.0,
+        "duration": 4.0,
+        "forte": 0.0,
+        "name": "Deadly Focus (ATK)",
+        "resonance": 0.0,
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Atk",
+        "value_percent": 10.0
+      },
+      {
+        "active": true,
+        "applies_to": "Team",
+        "concerto": 0.0,
+        "duration": 18.0,
+        "forte": 0.0,
+        "name": "Judgment Strike",
+        "resonance": 0.0,
+        "stack_interval": 1.0,
+        "stack_limit": 0.0,
+        "type1": "Dmg",
+        "type3": "Passive",
+        "value_percent": 39.56
+      },
+      {
+        "active": true,
+        "applies_to": "Self",
+        "concerto": 3.75,
+        "duration": 10.0,
+        "forte": 0.0,
+        "name": "Electromagnetic Blast",
+        "resonance": 0.0,
+        "stack_interval": 0.75,
+        "stack_limit": 4.0,
+        "type1": "Dmg",
+        "type3": "Passive",
+        "value_percent": 14.56
+      },
+      {
+        "active": true,
+        "applies_to": "Next",
+        "concerto": 0.0,
+        "duration": 14.0,
+        "forte": 0.0,
+        "name": "Outro: Strategist (Liberation)",
+        "resonance": 0.0,
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "BuffUntilSwap",
+        "type3": "Deepen",
+        "value_percent": 25.0
+      },
+      {
+        "active": true,
+        "applies_to": "Next",
+        "concerto": 0.0,
+        "duration": 14.0,
+        "forte": 0.0,
+        "name": "Outro: Strategist (Electro)",
+        "resonance": 0.0,
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "BuffUntilSwap",
+        "type3": "Deepen",
+        "value_percent": 20.0
+      }
+    ],
+    "intro": {
+      "concerto": 10.0,
+      "dmg_percent": 72.0,
+      "forte": 0.0,
+      "hits": 1,
+      "modifier": [
+        "In",
+        "Ele"
+      ],
+      "name": "Intro: Raging Storm",
+      "resonance": 10.0,
+      "time": 1.0
+    },
+    "name": "Yinlin",
+    "other_skills": [
+      {
+        "concerto": 10.0,
+        "dmg_percent": 90.0,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 3,
+        "modifier": [
+          "Sk",
+          "Ele"
+        ],
+        "name": "Skill: Magnetic Roar",
+        "resonance": 15.0,
+        "time": 0.48
+      },
+      {
+        "concerto": 15.0,
+        "dmg_percent": 180.0,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 4,
+        "modifier": [
+          "Sk",
+          "Ele"
+        ],
+        "name": "Skill: Lightning Execution",
+        "resonance": 15.0,
+        "time": 1.28
+      },
+      {
+        "concerto": 15.0,
+        "dmg_percent": 180.0,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 4,
+        "modifier": [
+          "Sk",
+          "Ele"
+        ],
+        "name": "Skill: Lightning Execution (Swap)",
+        "resonance": 15.0,
+        "time": 0.25
+      },
+      {
+        "concerto": 4.5,
+        "dmg_percent": 30.0,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 2,
+        "modifier": [
+          "He",
+          "Ele"
+        ],
+        "name": "Heavy: Zapstring's Dance",
+        "resonance": 1.8,
+        "time": 1.07
+      },
+      {
+        "concerto": 4.5,
+        "dmg_percent": 30.0,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 2,
+        "modifier": [
+          "He",
+          "Ele"
+        ],
+        "name": "Heavy: Zapstring's Dance (Cancel)",
+        "resonance": 1.8,
+        "time": 0.67
+      },
+      {
+        "concerto": 20.0,
+        "dmg_percent": 180.0,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 2,
+        "modifier": [
+          "He",
+          "Ele"
+        ],
+        "name": "Forte: Chameleon Cipher",
+        "resonance": 10.0,
+        "time": 1.72
+      },
+      {
+        "concerto": 20.0,
+        "dmg_percent": 180.0,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 2,
+        "modifier": [
+          "He",
+          "Ele"
+        ],
+        "name": "Forte: Chameleon Cipher (Swap)",
+        "resonance": 10.0,
+        "time": 0.25
+      },
+      {
+        "concerto": 20.0,
+        "dmg_percent": 410.41,
+        "forte": 0.0,
+        "freeze_time": 3.18,
+        "hits": 7,
+        "modifier": [
+          "Rl",
+          "Ele"
+        ],
+        "name": "Liberation: Thundering Wrath",
+        "resonance": -125.0,
+        "time": 3.18
+      },
+      {
+        "concerto": 20.0,
+        "dmg_percent": 135.59,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 11,
+        "modifier": [
+          "No",
+          "Ele"
+        ],
+        "name": "Basic: Zapstring's Dance x4",
+        "resonance": 6.05,
+        "time": 3.4
+      },
+      {
+        "concerto": 18.0,
+        "dmg_percent": 121.1,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 10,
+        "modifier": [
+          "No",
+          "Ele"
+        ],
+        "name": "Basic: Zapstring's Dance 2-4",
+        "resonance": 5.45,
+        "time": 3.0
+      },
+      {
+        "concerto": 12.0,
+        "dmg_percent": 83.3,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 9,
+        "modifier": [
+          "No",
+          "Ele"
+        ],
+        "name": "Basic: Zapstring's Dance 2-3",
+        "resonance": 3.95,
+        "time": 1.8
+      },
+      {
+        "concerto": 2.0,
+        "dmg_percent": 14.49,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 1,
+        "modifier": [
+          "No",
+          "Ele"
+        ],
+        "name": "Basic: Zapstring's Dance 1",
+        "resonance": 0.6,
+        "time": 0.35
+      },
+      {
+        "concerto": 5.0,
+        "dmg_percent": 34.02,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 2,
+        "modifier": [
+          "No",
+          "Ele"
+        ],
+        "name": "Basic: Zapstring's Dance 2",
+        "resonance": 1.5,
+        "time": 0.75
+      },
+      {
+        "concerto": 7.0,
+        "dmg_percent": 49.28,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 7,
+        "modifier": [
+          "No",
+          "Ele"
+        ],
+        "name": "Basic: Zapstring's Dance 3",
+        "resonance": 2.45,
+        "time": 1.05
+      }
+    ],
+    "outro": {
+      "concerto": 0.0,
+      "dmg_percent": 0.0,
+      "forte": 0.0,
+      "hits": 0,
+      "modifier": [
+        "Ou"
+      ],
+      "name": "Outro: Strategist",
+      "resonance": 0.0,
+      "time": 0.0
+    },
+    "resonance_chains": [
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 0.0,
+        "name": "Morality's Crossroads",
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Multiplier",
+        "value_percent": 70.0
+      },
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 0.0,
+        "name": "Ensnarled by Rapport",
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "BuffEnergy",
+        "type3": "Bonus",
+        "value_percent": 5.0
+      },
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 0.0,
+        "name": "Unyielding Verdict",
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Multiplier",
+        "value_percent": 40.0
+      },
+      {
+        "active": false,
+        "applies_to": "Team",
+        "duration": 30.0,
+        "name": "Steadfast Conviction",
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Attack",
+        "value_percent": 20.0
+      },
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 0.0,
+        "name": "Resounding Will",
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Multiplier",
+        "value_percent": 100.0
+      },
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 10.0,
+        "name": "Pursuit of Justice",
+        "stack_interval": 0.0,
+        "stack_limit": 4.0,
+        "type1": "Dmg",
+        "type3": "Passive",
+        "value_percent": 419.59
+      }
+    ]
+  },
+  {
+    "inherent_skills": [
+      {
+        "active": true,
+        "applies_to": "Self",
+        "concerto": 0.0,
+        "duration": 5.0,
+        "forte": 0.0,
+        "name": "Overflow",
+        "resonance": 0.0,
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Bonus",
+        "value_percent": 30.0
+      },
+      {
+        "active": true,
+        "applies_to": "Self",
+        "concerto": 0.0,
+        "duration": 0.0,
+        "forte": 0.0,
+        "name": "Crimson Light",
+        "resonance": 0.0,
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Multiplier",
+        "value_percent": 20.0
+      },
+      {
+        "active": true,
+        "applies_to": "Self",
+        "concerto": 0.0,
+        "duration": 12.0,
+        "forte": 0.0,
+        "name": "Incinerating Will",
+        "resonance": 0.0,
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Multiplier",
+        "value_percent": 20.0
+      },
+      {
+        "active": false,
+        "applies_to": "Next",
+        "concerto": 0.0,
+        "duration": 14.0,
+        "forte": 0.0,
+        "name": "Outro: Duality",
+        "resonance": 0.0,
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "BuffUntilSwap",
+        "type3": "Deepen",
+        "value_percent": 23.0
+      }
+    ],
+    "intro": {
+      "concerto": 10.0,
+      "dmg_percent": 100.0,
+      "forte": 0.0,
+      "hits": 4,
+      "modifier": [
+        "In",
+        "Ha"
+      ],
+      "name": "Intro: Vindiction",
+      "resonance": 10.0,
+      "time": 1.0
+    },
+    "name": "Danjin",
+    "other_skills": [
+      {
+        "concerto": 0.0,
+        "dmg_percent": 38.4,
+        "forte": 10.5,
+        "freeze_time": 0.0,
+        "hits": 2,
+        "modifier": [
+          "Sk",
+          "Ha"
+        ],
+        "name": "Skill: Camine Gleam (1)",
+        "resonance": 1.2,
+        "time": 0.38
+      },
+      {
+        "concerto": 0.0,
+        "dmg_percent": 92.4,
+        "forte": 21.0,
+        "freeze_time": 0.0,
+        "hits": 4,
+        "modifier": [
+          "Sk",
+          "Ha"
+        ],
+        "name": "Skill: Crimson Erosion (2)",
+        "resonance": 5.0,
+        "time": 1.2
+      },
+      {
+        "concerto": 0.0,
+        "dmg_percent": 218.4,
+        "forte": 40.5,
+        "freeze_time": 0.0,
+        "hits": 8,
+        "modifier": [
+          "Sk",
+          "Ha"
+        ],
+        "name": "Skill: Sanguine Pulse (3)",
+        "resonance": 9.99,
+        "time": 2.15
+      },
+      {
+        "concerto": 0.0,
+        "dmg_percent": 92.4,
+        "forte": 21.0,
+        "freeze_time": 0.0,
+        "hits": 4,
+        "modifier": [
+          "Sk",
+          "Ha"
+        ],
+        "name": "Skill: Crimson Erosion (Counter)",
+        "resonance": 5.0,
+        "time": 0.25
+      },
+      {
+        "concerto": 50.0,
+        "dmg_percent": 300.0,
+        "forte": -60.0,
+        "freeze_time": 0.0,
+        "hits": 8,
+        "modifier": [
+          "He",
+          "Ha"
+        ],
+        "name": "Forte: Chaoscleave + Scatterbloom (50%)",
+        "resonance": 20.0,
+        "time": 1.48
+      },
+      {
+        "concerto": 50.0,
+        "dmg_percent": 720.0,
+        "forte": -120.0,
+        "freeze_time": 0.0,
+        "hits": 8,
+        "modifier": [
+          "He",
+          "Ha"
+        ],
+        "name": "Forte: Chaoscleave + Scatterbloom (100%)",
+        "resonance": 20.0,
+        "time": 1.48
+      },
+      {
+        "concerto": 20.0,
+        "dmg_percent": 395.02,
+        "forte": 0.0,
+        "freeze_time": 3.13,
+        "hits": 9,
+        "modifier": [
+          "Rl",
+          "Ha"
+        ],
+        "name": "Liberation: Crimson Bloom",
+        "resonance": -100.0,
+        "time": 3.17
+      },
+      {
+        "concerto": 1.11,
+        "dmg_percent": 29.6,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 1,
+        "modifier": [
+          "No",
+          "Ha"
+        ],
+        "name": "Basic: Execution 2",
+        "resonance": 0.92,
+        "time": 0.38
+      },
+      {
+        "concerto": 2.61,
+        "dmg_percent": 69.6,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 2,
+        "modifier": [
+          "No",
+          "Ha"
+        ],
+        "name": "Basic: Execution 2 3",
+        "resonance": 2.17,
+        "time": 0.78
+      },
+      {
+        "concerto": 3.69,
+        "dmg_percent": 98.4,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 3,
+        "modifier": [
+          "No",
+          "Ha"
+        ],
+        "name": "Basic: Execution 1 2 3",
+        "resonance": 3.07,
+        "time": 0.97
+      },
+      {
+        "concerto": 2.19,
+        "dmg_percent": 58.4,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 2,
+        "modifier": [
+          "No",
+          "Ha"
+        ],
+        "name": "Basic: Execution 1 2",
+        "resonance": 1.82,
+        "time": 0.57
+      }
+    ],
+    "outro": {
+      "concerto": 0.0,
+      "dmg_percent": 0.0,
+      "forte": 0.0,
+      "hits": 0,
+      "modifier": [
+        "Ou"
+      ],
+      "name": "Outro: Duality",
+      "resonance": 0.0,
+      "time": 0.0
+    },
+    "resonance_chains": [
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 6.0,
+        "name": "Crimson Heart of Justice",
+        "stack_interval": 0.0,
+        "stack_limit": 6.0,
+        "type1": "StackingBuff",
+        "type3": "Attack",
+        "value_percent": 5.0
+      },
+      {
+        "applies_to": "Self",
+        "name": "Dusted Mirror"
+      },
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 0.0,
+        "name": "Fleeting Blossom",
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Bonus",
+        "value_percent": 30.0
+      },
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 0.0,
+        "name": "Solitary Carnation",
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Crit",
+        "value_percent": 15.0
+      },
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 0.0,
+        "name": "Reigning Blade",
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Bonus",
+        "value_percent": 30.0
+      },
+      {
+        "active": false,
+        "applies_to": "Team",
+        "duration": 20.0,
+        "name": "Bloodied Jade",
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Attack",
+        "value_percent": 20.0
+      }
+    ]
+  },
+  {
+    "inherent_skills": [
+      {
+        "active": true,
+        "applies_to": "Self",
+        "concerto": 0.0,
+        "duration": 12.0,
+        "forte": 0.0,
+        "name": "Metamorph",
+        "resonance": 0.0,
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Bonus",
+        "value_percent": 20.0
+      },
+      {
+        "active": true,
+        "applies_to": "Self",
+        "concerto": 0.0,
+        "duration": 0.0,
+        "forte": 0.0,
+        "name": "Bleak Crescendo",
+        "resonance": 0.0,
+        "stack_interval": 1.0,
+        "stack_limit": 0.0,
+        "type1": "BuffEnergy",
+        "type3": "Bonus",
+        "value_percent": 1.0
+      },
+      {
+        "active": true,
+        "applies_to": "Self",
+        "concerto": 0.0,
+        "duration": 5.0,
+        "forte": 0.0,
+        "name": "Dreamless Buff",
+        "resonance": 0.0,
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Multiplier",
+        "value_percent": 50.0
+      }
+    ],
+    "intro": {
+      "concerto": 10.0,
+      "dmg_percent": 100.0,
+      "forte": 29.27,
+      "hits": 1,
+      "modifier": [
+        "In",
+        "Ha"
+      ],
+      "name": "Intro: Instant of Annihilation",
+      "resonance": 10.0,
+      "time": 1.0
+    },
+    "name": "Rover (Havoc)",
+    "other_skills": [
+      {
+        "concerto": 15.0,
+        "dmg_percent": 288.0,
+        "forte": 39.02,
+        "freeze_time": 0.0,
+        "hits": 2,
+        "modifier": [
+          "Sk",
+          "Ha"
+        ],
+        "name": "Skill: Wingblade",
+        "resonance": 6.0,
+        "time": 1.1
+      },
+      {
+        "concerto": 15.0,
+        "dmg_percent": 288.0,
+        "forte": 39.02,
+        "freeze_time": 0.0,
+        "hits": 6,
+        "modifier": [
+          "Sk",
+          "Ha"
+        ],
+        "name": "Skill: Wingblade (Swap)",
+        "resonance": 6.0,
+        "time": 0.25
+      },
+      {
+        "concerto": 15.0,
+        "dmg_percent": 298.0,
+        "forte": 39.02,
+        "freeze_time": 0.0,
+        "hits": 6,
+        "modifier": [
+          "Sk",
+          "Ha"
+        ],
+        "name": "Skill: Umbra Lifetaker",
+        "resonance": 12.0,
+        "time": 1.1
+      },
+      {
+        "concerto": 0.0,
+        "dmg_percent": 114.75,
+        "forte": -100.0,
+        "freeze_time": 0.0,
+        "hits": 1,
+        "modifier": [
+          "He",
+          "Ha"
+        ],
+        "name": "Forte: Devastation",
+        "resonance": 1.75,
+        "time": 1.03
+      },
+      {
+        "concerto": 20.0,
+        "dmg_percent": 765.0,
+        "forte": 0.0,
+        "freeze_time": 2.27,
+        "hits": 1,
+        "modifier": [
+          "Rl",
+          "Ha"
+        ],
+        "name": "Liberation: Deadening Abyss",
+        "resonance": -125.0,
+        "time": 2.32
+      },
+      {
+        "concerto": 7.37,
+        "dmg_percent": 284.06,
+        "forte": 32.0,
+        "freeze_time": 0.0,
+        "hits": 9,
+        "modifier": [
+          "No",
+          "Ha"
+        ],
+        "name": "Basic: Tuneslayer x5",
+        "resonance": 5.96,
+        "time": 3.0
+      },
+      {
+        "concerto": 9.62,
+        "dmg_percent": 380.75,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 12,
+        "modifier": [
+          "No",
+          "Ha"
+        ],
+        "name": "Basic: Umbra Basic Attack x5",
+        "resonance": 5.61,
+        "time": 2.85
+      }
+    ],
+    "outro": {
+      "concerto": 0.0,
+      "dmg_percent": 429.9,
+      "forte": 0.0,
+      "hits": 3,
+      "modifier": [
+        "Ou",
+        "Ha"
+      ],
+      "name": "Outro: Soundweaver",
+      "resonance": 0.0,
+      "time": 0.0
+    },
+    "resonance_chains": [
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 0.0,
+        "name": "Cryptic Insight",
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Bonus",
+        "value_percent": 30.0
+      },
+      {
+        "applies_to": "Self",
+        "name": "Waning Crescent"
+      },
+      {
+        "applies_to": "Self",
+        "name": "Surging Resonance"
+      },
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 20.0,
+        "name": "Annihilated Silence",
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Debuff",
+        "type3": "Resistance",
+        "value_percent": 10.0
+      },
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 0.0,
+        "name": "Aeon Symphony",
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Bonus",
+        "value_percent": 35.0
+      },
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 12.0,
+        "name": "Ebbing Undercurrent",
+        "stack_interval": 0.0,
+        "stack_limit": 5.0,
+        "type1": "Buff",
+        "type3": "Crit",
+        "value_percent": 25.0
+      }
+    ]
+  },
+  {
+    "inherent_skills": [
+      {
+        "active": true,
+        "applies_to": "Self",
+        "concerto": 0.0,
+        "duration": 0.0,
+        "forte": 0.0,
+        "name": "Converged Flash",
+        "resonance": 0.0,
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Multiplier",
+        "value_percent": 50.0
+      },
+      {
+        "active": true,
+        "applies_to": "Self",
+        "concerto": 0.0,
+        "duration": 0.0,
+        "forte": 0.0,
+        "name": "Radiant Surge",
+        "resonance": 0.0,
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Bonus",
+        "value_percent": 20.0
+      },
+      {
+        "active": true,
+        "applies_to": "Self",
+        "concerto": 0.0,
+        "duration": 5.0,
+        "forte": 0.0,
+        "name": "Ordination Glow",
+        "resonance": 0.0,
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Special",
+        "value_percent": 0.0
+      },
+      {
+        "active": true,
+        "applies_to": "Self",
+        "concerto": 0.0,
+        "duration": 10.0,
+        "forte": 0.0,
+        "name": "Star Glamour",
+        "resonance": 5.67,
+        "stack_interval": 0.0,
+        "stack_limit": 1.0,
+        "type1": "Dmg",
+        "type3": "Passive",
+        "value_percent": 175.0
+      },
+      {
+        "active": true,
+        "applies_to": "Team",
+        "concerto": 0.0,
+        "duration": 9999.0,
+        "forte": 0.0,
+        "name": "Incandescence (Sp)",
+        "resonance": 0.0,
+        "stack_interval": 3.0,
+        "stack_limit": 50.0,
+        "type1": "StackingBuff",
+        "type3": "Additive",
+        "value_percent": 44.53
+      },
+      {
+        "active": true,
+        "applies_to": "Team",
+        "concerto": 0.0,
+        "duration": 9999.0,
+        "forte": 0.0,
+        "name": "Incandescence (Fu)",
+        "resonance": 0.0,
+        "stack_interval": 3.0,
+        "stack_limit": 50.0,
+        "type1": "StackingBuff",
+        "type3": "Additive",
+        "value_percent": 44.53
+      },
+      {
+        "active": true,
+        "applies_to": "Team",
+        "concerto": 0.0,
+        "duration": 9999.0,
+        "forte": 0.0,
+        "name": "Incandescence (Gl)",
+        "resonance": 0.0,
+        "stack_interval": 3.0,
+        "stack_limit": 50.0,
+        "type1": "StackingBuff",
+        "type3": "Additive",
+        "value_percent": 44.53
+      },
+      {
+        "active": true,
+        "applies_to": "Team",
+        "concerto": 0.0,
+        "duration": 9999.0,
+        "forte": 0.0,
+        "name": "Incandescence (Ha)",
+        "resonance": 0.0,
+        "stack_interval": 3.0,
+        "stack_limit": 50.0,
+        "type1": "StackingBuff",
+        "type3": "Additive",
+        "value_percent": 44.53
+      },
+      {
+        "active": true,
+        "applies_to": "Team",
+        "concerto": 0.0,
+        "duration": 9999.0,
+        "forte": 0.0,
+        "name": "Incandescence (Ae)",
+        "resonance": 0.0,
+        "stack_interval": 3.0,
+        "stack_limit": 50.0,
+        "type1": "StackingBuff",
+        "type3": "Additive",
+        "value_percent": 44.53
+      },
+      {
+        "active": true,
+        "applies_to": "Team",
+        "concerto": 0.0,
+        "duration": 9999.0,
+        "forte": 0.0,
+        "name": "Incandescence (El)",
+        "resonance": 0.0,
+        "stack_interval": 3.0,
+        "stack_limit": 50.0,
+        "type1": "StackingBuff",
+        "type3": "Additive",
+        "value_percent": 44.53
+      },
+      {
+        "active": true,
+        "applies_to": "Team",
+        "concerto": 0.0,
+        "duration": 9999.0,
+        "forte": 0.0,
+        "name": "Incandescence (Sp Coord)",
+        "resonance": 0.0,
+        "stack_interval": 3.0,
+        "stack_limit": 50.0,
+        "type1": "StackingBuff",
+        "type3": "Additive",
+        "value_percent": 44.53
+      },
+      {
+        "active": true,
+        "applies_to": "Team",
+        "concerto": 0.0,
+        "duration": 9999.0,
+        "forte": 0.0,
+        "name": "Incandescence (Fu Coord)",
+        "resonance": 0.0,
+        "stack_interval": 3.0,
+        "stack_limit": 50.0,
+        "type1": "StackingBuff",
+        "type3": "Additive",
+        "value_percent": 44.53
+      },
+      {
+        "active": true,
+        "applies_to": "Team",
+        "concerto": 0.0,
+        "duration": 9999.0,
+        "forte": 0.0,
+        "name": "Incandescence (Gl Coord)",
+        "resonance": 0.0,
+        "stack_interval": 3.0,
+        "stack_limit": 50.0,
+        "type1": "StackingBuff",
+        "type3": "Additive",
+        "value_percent": 44.53
+      },
+      {
+        "active": true,
+        "applies_to": "Team",
+        "concerto": 0.0,
+        "duration": 9999.0,
+        "forte": 0.0,
+        "name": "Incandescence (Ha Coord)",
+        "resonance": 0.0,
+        "stack_interval": 3.0,
+        "stack_limit": 50.0,
+        "type1": "StackingBuff",
+        "type3": "Additive",
+        "value_percent": 44.53
+      },
+      {
+        "active": true,
+        "applies_to": "Team",
+        "concerto": 0.0,
+        "duration": 9999.0,
+        "forte": 0.0,
+        "name": "Incandescence (Ae Coord)",
+        "resonance": 0.0,
+        "stack_interval": 3.0,
+        "stack_limit": 50.0,
+        "type1": "StackingBuff",
+        "type3": "Additive",
+        "value_percent": 44.53
+      },
+      {
+        "active": true,
+        "applies_to": "Team",
+        "concerto": 0.0,
+        "duration": 9999.0,
+        "forte": 0.0,
+        "name": "Incandescence (El Coord)",
+        "resonance": 0.0,
+        "stack_interval": 3.0,
+        "stack_limit": 50.0,
+        "type1": "StackingBuff",
+        "type3": "Additive",
+        "value_percent": 44.53
+      },
+      {
+        "active": true,
+        "applies_to": "Team",
+        "concerto": 0.0,
+        "duration": 0.0,
+        "forte": 0.0,
+        "name": "Incandescence (Consume)",
+        "resonance": 0.0,
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "ConsumeBuff",
+        "value_percent": 0.0
+      },
+      {
+        "active": true,
+        "applies_to": "Team",
+        "concerto": 0.0,
+        "duration": 20.0,
+        "forte": 0.0,
+        "name": "Outro: Temporal Bender",
+        "resonance": 0.0,
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Special",
+        "value_percent": 0.0
+      },
+      {
+        "active": true,
+        "applies_to": "Self",
+        "concerto": 0.0,
+        "duration": 5.0,
+        "forte": 0.0,
+        "name": "Unison",
+        "resonance": 0.0,
+        "stack_interval": 25.0,
+        "stack_limit": 0.0,
+        "type1": "BuffUntilSwap",
+        "type3": "Special",
+        "value_percent": 0.0
+      }
+    ],
+    "intro": {
+      "concerto": 10.0,
+      "dmg_percent": 80.0,
+      "forte": 0.0,
+      "hits": 1,
+      "modifier": [
+        "In",
+        "Sp"
+      ],
+      "name": "Intro: Loong's Halo",
+      "resonance": 10.0,
+      "time": 1.2
+    },
+    "name": "Jinhsi",
+    "other_skills": [
+      {
+        "concerto": 4.38,
+        "dmg_percent": 78.31,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 5,
+        "modifier": [
+          "Sk",
+          "Sp"
+        ],
+        "name": "Skill: Trailing Lights of Eons",
+        "resonance": 2.21,
+        "time": 0.87
+      },
+      {
+        "concerto": 4.38,
+        "dmg_percent": 78.31,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 5,
+        "modifier": [
+          "Sk",
+          "Sp"
+        ],
+        "name": "Skill: Trailing Lights of Eons (Swap)",
+        "resonance": 2.21,
+        "time": 0.25
+      },
+      {
+        "concerto": 0.0,
+        "dmg_percent": 0.0,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 0,
+        "modifier": [
+          "Sk",
+          "Sp"
+        ],
+        "name": "Skill: Overflowing Radiance (Cancel)",
+        "resonance": 0.0,
+        "time": 0.01
+      },
+      {
+        "concerto": 4.0,
+        "dmg_percent": 99.2,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 9,
+        "modifier": [
+          "Sk",
+          "Sp"
+        ],
+        "name": "Skill: Overflowing Radiance (Swap)",
+        "resonance": 1.29,
+        "time": 0.25
+      },
+      {
+        "concerto": 4.0,
+        "dmg_percent": 99.2,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 9,
+        "modifier": [
+          "Sk",
+          "Sp"
+        ],
+        "name": "Skill: Overflowing Radiance",
+        "resonance": 1.29,
+        "time": 1.88
+      },
+      {
+        "concerto": 20.0,
+        "dmg_percent": 838.0,
+        "forte": 0.0,
+        "freeze_time": 3.32,
+        "hits": 4,
+        "modifier": [
+          "Rl",
+          "Sp"
+        ],
+        "name": "Liberation: Purge of Light",
+        "resonance": -150.0,
+        "time": 3.45
+      },
+      {
+        "concerto": 14.72,
+        "dmg_percent": 215.4,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 15,
+        "modifier": [
+          "No",
+          "Sp"
+        ],
+        "name": "Basic: Slash of Breaking Dawn x4",
+        "resonance": 8.03,
+        "time": 2.87
+      },
+      {
+        "concerto": 3.1,
+        "dmg_percent": 62.0,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 3,
+        "modifier": [
+          "No",
+          "Sp"
+        ],
+        "name": "Basic: Slash of Breaking Dawn (Mid-Air)",
+        "resonance": 0.54,
+        "time": 1.5
+      },
+      {
+        "concerto": 3.1,
+        "dmg_percent": 62.0,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 3,
+        "modifier": [
+          "No",
+          "Sp"
+        ],
+        "name": "Basic: Slash of Breaking Dawn (Mid-Air) (Swap)",
+        "resonance": 0.54,
+        "time": 0.01
+      },
+      {
+        "concerto": 3.65,
+        "dmg_percent": 49.04,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 4,
+        "modifier": [
+          "No",
+          "Sp"
+        ],
+        "name": "Basic: Slash of Breaking Dawn 2",
+        "resonance": 1.84,
+        "time": 0.28
+      },
+      {
+        "concerto": 7.64,
+        "dmg_percent": 102.63,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 14,
+        "modifier": [
+          "No",
+          "Sp"
+        ],
+        "name": "Basic: Slash of Breaking Dawn 2 3 4 (Cancel)",
+        "resonance": 4.48,
+        "time": 1.5
+      },
+      {
+        "concerto": 8.0,
+        "dmg_percent": 120.0,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 7,
+        "modifier": [
+          "He",
+          "Sp"
+        ],
+        "name": "Heavy: Slash of Breaking Dawn",
+        "resonance": 4.0,
+        "time": 0.75
+      },
+      {
+        "concerto": 8.06,
+        "dmg_percent": 287.23,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 13,
+        "modifier": [
+          "Sk",
+          "Sp"
+        ],
+        "name": "Incarnation: Basic Attack x4",
+        "resonance": 8.06,
+        "time": 1.92
+      },
+      {
+        "concerto": 3.07,
+        "dmg_percent": 109.96,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 4,
+        "modifier": [
+          "Sk",
+          "Sp"
+        ],
+        "name": "Incarnation: Basic Attack 1 2 (Cancel)",
+        "resonance": 3.07,
+        "time": 0.92
+      },
+      {
+        "concerto": 2.32,
+        "dmg_percent": 83.37,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 2,
+        "modifier": [
+          "Sk",
+          "Sp"
+        ],
+        "name": "Incarnation: Basic Attack 3 4 (Cancel)",
+        "resonance": 2.32,
+        "time": 0.88
+      },
+      {
+        "concerto": 0.0,
+        "dmg_percent": 0.0,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 0,
+        "modifier": [
+          "Sk",
+          "Sp"
+        ],
+        "name": "Incarnation: Basic Attack 3 (Instant Cancel)",
+        "resonance": 0.0,
+        "time": 0.25
+      },
+      {
+        "concerto": 2.67,
+        "dmg_percent": 93.9,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 0,
+        "modifier": [
+          "Sk",
+          "Sp"
+        ],
+        "name": "Incarnation: Basic Attack 4 (Cancel)",
+        "resonance": 2.67,
+        "time": 0.25
+      },
+      {
+        "concerto": 2.0,
+        "dmg_percent": 80.0,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 2,
+        "modifier": [
+          "He",
+          "Sp"
+        ],
+        "name": "Incarnation: Heavy Attack",
+        "resonance": 2.0,
+        "time": 1.62
+      },
+      {
+        "concerto": 8.0,
+        "dmg_percent": 253.4,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 4,
+        "modifier": [
+          "Sk",
+          "Sp"
+        ],
+        "name": "Incarnation: Crescent Divinity",
+        "resonance": 3.19,
+        "time": 1.27
+      },
+      {
+        "concerto": 8.0,
+        "dmg_percent": 253.4,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 4,
+        "modifier": [
+          "Sk",
+          "Sp"
+        ],
+        "name": "Incarnation: Crescent Divinity (Swap)",
+        "resonance": 3.19,
+        "time": 0.25
+      },
+      {
+        "concerto": 20.0,
+        "dmg_percent": 60.0,
+        "forte": 0.0,
+        "freeze_time": 2.62,
+        "hits": 6,
+        "modifier": [
+          "Sk",
+          "Sp"
+        ],
+        "name": "Incarnation: Illuminous Epiphany",
+        "resonance": 1.98,
+        "time": 3.65
+      }
+    ],
+    "outro": {
+      "concerto": 0.0,
+      "dmg_percent": 0.0,
+      "forte": 0.0,
+      "hits": 0,
+      "modifier": [
+        "Ou"
+      ],
+      "name": "Outro: Temporal Bender",
+      "resonance": 0.0,
+      "time": 0.0
+    },
+    "resonance_chains": [
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 6.0,
+        "name": "Abyssal Ascension",
+        "stack_interval": 0.0,
+        "stack_limit": 4.0,
+        "type1": "StackingBuff",
+        "type3": "Bonus",
+        "value_percent": 20.0
+      },
+      {
+        "applies_to": "Self",
+        "name": "Chronofrost Repose"
+      },
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 20.0,
+        "name": "Celestial Incarnate",
+        "stack_interval": 0.0,
+        "stack_limit": 2.0,
+        "type1": "StackingBuff",
+        "type3": "Attack",
+        "value_percent": 25.0
+      },
+      {
+        "active": false,
+        "applies_to": "Team",
+        "duration": 20.0,
+        "name": "Benevolent Grace",
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Bonus",
+        "value_percent": 20.0
+      },
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 0.0,
+        "name": "Frostfire Illumination",
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Bonus",
+        "value_percent": 120.0
+      },
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 0.0,
+        "name": "Comes Spring when Chill Exhausts",
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Multiplier",
+        "value_percent": 45.0
+      }
+    ]
+  },
+  {
+    "inherent_skills": [
+      {
+        "active": true,
+        "applies_to": "Self",
+        "concerto": 0.0,
+        "duration": 0.0,
+        "forte": 0.0,
+        "name": "Thunderweaver",
+        "resonance": 0.0,
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Multiplier",
+        "value_percent": 40.0
+      },
+      {
+        "active": true,
+        "applies_to": "Team",
+        "concerto": 0.0,
+        "duration": 13.5,
+        "forte": 0.0,
+        "name": "Yuanwu Coordinated Attack",
+        "resonance": 0.0,
+        "stack_interval": 1.2,
+        "stack_limit": 0.0,
+        "type1": "Dmg",
+        "type3": "Passive",
+        "value_percent": 4.0
+      },
+      {
+        "active": true,
+        "applies_to": "Team",
+        "concerto": 0.0,
+        "duration": 0.0,
+        "forte": 0.0,
+        "name": "Detonate Thunder Wedge",
+        "resonance": 0.0,
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "ConsumeBuff",
+        "value_percent": 0.0
+      },
+      {
+        "active": false,
+        "applies_to": "Team",
+        "concerto": 0.0,
+        "duration": 0.0,
+        "forte": 0.0,
+        "name": "Upholder of Integrity",
+        "resonance": 0.0,
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Additive",
+        "value_percent": 20.0
+      }
+    ],
+    "intro": {
+      "concerto": 10.0,
+      "dmg_percent": 32.0,
+      "forte": 0.0,
+      "hits": 1,
+      "modifier": [
+        "Ele",
+        "In",
+        "Df"
+      ],
+      "name": "Intro: Thunder Bombardment",
+      "resonance": 10.0,
+      "time": 1.9
+    },
+    "name": "Yuanwu",
+    "other_skills": [
+      {
+        "concerto": 3.0,
+        "dmg_percent": 12.0,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 4,
+        "modifier": [
+          "Sk",
+          "Ele",
+          "Df"
+        ],
+        "name": "Skill: Leihuang Master",
+        "resonance": 3.0,
+        "time": 1.0
+      },
+      {
+        "concerto": 3.0,
+        "dmg_percent": 12.0,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 4,
+        "modifier": [
+          "Sk",
+          "Ele",
+          "Df"
+        ],
+        "name": "Skill: Leihuang Master (Auto)",
+        "resonance": 3.0,
+        "time": 0.0
+      },
+      {
+        "concerto": 25.0,
+        "dmg_percent": 30.0,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 1,
+        "modifier": [
+          "Sk",
+          "Ele",
+          "Df"
+        ],
+        "name": "Forte: Rumbling Spark",
+        "resonance": 15.0,
+        "time": 0.93
+      },
+      {
+        "concerto": 25.0,
+        "dmg_percent": 30.0,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 1,
+        "modifier": [
+          "Sk",
+          "Ele",
+          "Df"
+        ],
+        "name": "Forte: Rumbling Spark (Swap)",
+        "resonance": 15.0,
+        "time": 0.25
+      },
+      {
+        "concerto": 20.0,
+        "dmg_percent": 176.0,
+        "forte": 0.0,
+        "freeze_time": 1.92,
+        "hits": 1,
+        "modifier": [
+          "Rl",
+          "Ele",
+          "Df"
+        ],
+        "name": "Liberation: Blazing Might",
+        "resonance": -125.0,
+        "time": 2.0
+      },
+      {
+        "concerto": 2.46,
+        "dmg_percent": 24.7,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 1,
+        "modifier": [
+          "No",
+          "Ele"
+        ],
+        "name": "Basic: Leihuangquan 1",
+        "resonance": 0.77,
+        "time": 0.25
+      },
+      {
+        "concerto": 2.46,
+        "dmg_percent": 24.7,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 1,
+        "modifier": [
+          "No",
+          "Ele"
+        ],
+        "name": "Basic: Leihuangquan 1 (Swap)",
+        "resonance": 0.77,
+        "time": 0.25
+      },
+      {
+        "concerto": 5.2,
+        "dmg_percent": 52.12,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 2,
+        "modifier": [
+          "No",
+          "Ele"
+        ],
+        "name": "Basic: Leihuangquan 2",
+        "resonance": 1.62,
+        "time": 0.25
+      }
+    ],
+    "outro": {
+      "concerto": -100.0,
+      "dmg_percent": 0.0,
+      "forte": 0.0,
+      "hits": 0,
+      "modifier": [
+        "Ou"
+      ],
+      "name": "Outro: Lightning Manipulation",
+      "resonance": 0.0,
+      "time": 0.0
+    },
+    "resonance_chains": [
+      {
+        "applies_to": "Self",
+        "name": "Steaming Cup of Justice"
+      },
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 0.0,
+        "name": "Fierce Heart, Serene Mind",
+        "stack_interval": 10.0,
+        "stack_limit": 0.0,
+        "type1": "BuffEnergy",
+        "type3": "Resonance",
+        "value_percent": 15.0
+      },
+      {
+        "applies_to": "Self",
+        "name": "Upholder of Integrity (Applied Dynamically)"
+      },
+      {
+        "applies_to": "Self",
+        "name": "Retributive Knuckles"
+      },
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 13.5,
+        "name": "Neighborhood Protector",
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Bonus",
+        "value_percent": 50.0
+      },
+      {
+        "active": false,
+        "applies_to": "Team",
+        "duration": 15.0,
+        "name": "Defender of All Realms",
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Defense",
+        "value_percent": 32.0
+      }
+    ]
+  },
+  {
+    "inherent_skills": [
+      {
+        "active": true,
+        "applies_to": "Team",
+        "concerto": 0.0,
+        "duration": 999.0,
+        "forte": 0.0,
+        "name": "Steadfast Protection",
+        "resonance": 0.0,
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Defense",
+        "value_percent": 15.0
+      },
+      {
+        "active": true,
+        "applies_to": "Next",
+        "concerto": 0.0,
+        "duration": 14.0,
+        "forte": 0.0,
+        "name": "Outro: Iron Will",
+        "resonance": 0.0,
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "BuffUntilSwap",
+        "type3": "Deepen",
+        "value_percent": 38.0
+      }
+    ],
+    "intro": {
+      "concerto": 10.0,
+      "dmg_percent": 105.0,
+      "forte": 0.0,
+      "hits": 1,
+      "modifier": [
+        "Ha",
+        "In"
+      ],
+      "name": "Intro: Defense Formation",
+      "resonance": 10.0,
+      "time": 1.75
+    },
+    "name": "Taoqi",
+    "other_skills": [
+      {
+        "concerto": 15.0,
+        "dmg_percent": 67.86,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 1,
+        "modifier": [
+          "Sk",
+          "Ha",
+          "Df"
+        ],
+        "name": "Skill: Fortified Defense",
+        "resonance": 10.0,
+        "time": 0.75
+      },
+      {
+        "concerto": 15.0,
+        "dmg_percent": 67.86,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 1,
+        "modifier": [
+          "Sk",
+          "Ha",
+          "Df"
+        ],
+        "name": "Skill: Fortified Defense (Cancel)",
+        "resonance": 10.0,
+        "time": 0.25
+      },
+      {
+        "concerto": 20.0,
+        "dmg_percent": 226.2,
+        "forte": 0.0,
+        "freeze_time": 2.19,
+        "hits": 1,
+        "modifier": [
+          "Rl",
+          "Ha",
+          "Df"
+        ],
+        "name": "Liberation: Unmovable",
+        "resonance": -125.0,
+        "time": 2.27
+      },
+      {
+        "concerto": 3.5,
+        "dmg_percent": 45.34,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 1,
+        "modifier": [
+          "No",
+          "Ha"
+        ],
+        "name": "Basic: Concealed Edge 1 (Swap)",
+        "resonance": 1.16,
+        "time": 0.25
+      },
+      {
+        "concerto": 3.9,
+        "dmg_percent": 42.67,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 1,
+        "modifier": [
+          "No",
+          "Ha"
+        ],
+        "name": "Basic: Concealed Edge 2 (Swap)",
+        "resonance": 1.08,
+        "time": 0.25
+      },
+      {
+        "concerto": 16.9,
+        "dmg_percent": 98.67,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 2,
+        "modifier": [
+          "No",
+          "Ha"
+        ],
+        "name": "Basic: Concealed Edge 2 3 (Cancel)",
+        "resonance": 6.68,
+        "time": 1.73
+      },
+      {
+        "concerto": 16.9,
+        "dmg_percent": 98.67,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 2,
+        "modifier": [
+          "No",
+          "Ha"
+        ],
+        "name": "Basic: Concealed Edge 2 3 (Swap)",
+        "resonance": 6.68,
+        "time": 0.65
+      },
+      {
+        "concerto": 16.9,
+        "dmg_percent": 144.01,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 3,
+        "modifier": [
+          "No",
+          "Ha"
+        ],
+        "name": "Basic: Concealed Edge 1 2 3 (Swap)",
+        "resonance": 6.68,
+        "time": 1.1
+      },
+      {
+        "concerto": 25.0,
+        "dmg_percent": 234.67,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 3,
+        "modifier": [
+          "No",
+          "Ha"
+        ],
+        "name": "Basic: Concealed Edge 2 3 4 (Swap)",
+        "resonance": 9.64,
+        "time": 2.02
+      },
+      {
+        "concerto": 28.5,
+        "dmg_percent": 280.01,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 4,
+        "modifier": [
+          "No",
+          "Ha"
+        ],
+        "name": "Basic: Concealed Edge x4 (Swap)",
+        "resonance": 10.8,
+        "time": 2.4
+      }
+    ],
+    "outro": {
+      "concerto": -100.0,
+      "dmg_percent": 0.0,
+      "forte": 0.0,
+      "hits": 0,
+      "modifier": [
+        "Ou"
+      ],
+      "name": "Outro: Iron Will",
+      "resonance": 0.0,
+      "time": 0.0
+    },
+    "resonance_chains": [
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 0.0,
+        "name": "Silent Strength (Crit)",
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Crit",
+        "value_percent": 20.0
+      },
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 0.0,
+        "name": "Silent Strength (Crit DMG)",
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Crit Dmg",
+        "value_percent": 20.0
+      },
+      {
+        "applies_to": "Self",
+        "name": "Keen-eyed Observer"
+      },
+      {
+        "applies_to": "Self",
+        "name": "Heavylifting Duty"
+      },
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 0.0,
+        "name": "Benevolent Guardian",
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Multiplier",
+        "value_percent": 50.0
+      },
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 999.0,
+        "name": "Defender of Peace",
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Bonus",
+        "value_percent": 40.0
+      }
+    ]
+  },
+  {
+    "inherent_skills": [
+      {
+        "active": true,
+        "applies_to": "Self",
+        "concerto": 0.0,
+        "duration": 8.0,
+        "forte": 0.0,
+        "name": "Harmonic Control",
+        "resonance": 0.0,
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Multiplier",
+        "value_percent": 25.0
+      },
+      {
+        "active": true,
+        "applies_to": "Self",
+        "concerto": 0.0,
+        "duration": 10.0,
+        "forte": 0.0,
+        "name": "Rythmic Vibrato",
+        "resonance": 0.0,
+        "stack_interval": 0.35,
+        "stack_limit": 0.0,
+        "type1": "StackingBuff",
+        "type3": "Multiplier",
+        "value_percent": 1.5
+      },
+      {
+        "active": true,
+        "applies_to": "Next",
+        "concerto": 0.0,
+        "duration": 14.0,
+        "forte": 0.0,
+        "name": "Outro: Rage Transportation",
+        "resonance": 0.0,
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "BuffUntilSwap",
+        "type3": "Deepen",
+        "value_percent": 38.0
+      },
+      {
+        "active": true,
+        "applies_to": "Team",
+        "concerto": 0.0,
+        "duration": 10.0,
+        "forte": 0.0,
+        "name": "Marcato (No)",
+        "resonance": 0.0,
+        "stack_interval": 0.35,
+        "stack_limit": 0.0,
+        "type1": "Dmg",
+        "type3": "Passive",
+        "value_percent": 16.0
+      },
+      {
+        "active": true,
+        "applies_to": "Team",
+        "concerto": 0.0,
+        "duration": 10.0,
+        "forte": 0.0,
+        "name": "Marcato (He)",
+        "resonance": 0.0,
+        "stack_interval": 0.35,
+        "stack_limit": 0.0,
+        "type1": "Dmg",
+        "type3": "Passive",
+        "value_percent": 32.0
+      },
+      {
+        "active": false,
+        "applies_to": "Team",
+        "concerto": 0.0,
+        "duration": 10.0,
+        "forte": 0.0,
+        "name": "Marcato (S1: Skill Cast Only)",
+        "resonance": 0.0,
+        "stack_interval": 3.0,
+        "stack_limit": 0.0,
+        "type1": "Dmg",
+        "type3": "Passive",
+        "value_percent": 32.0
+      },
+      {
+        "active": false,
+        "applies_to": "Self",
+        "concerto": 0.0,
+        "duration": 1.0,
+        "forte": 0.0,
+        "name": "Marcato (Funerary Quartet)",
+        "resonance": 0.0,
+        "stack_interval": 1.0,
+        "stack_limit": 1.0,
+        "type1": "Dmg",
+        "type3": "Passive",
+        "value_percent": 32.0
+      }
+    ],
+    "intro": {
+      "concerto": 10.0,
+      "dmg_percent": 85.0,
+      "forte": 0.0,
+      "hits": 1,
+      "modifier": [
+        "In",
+        "Fu"
+      ],
+      "name": "Intro: Dissonance",
+      "resonance": 10.0,
+      "time": 1.0
+    },
+    "name": "Mortefi",
+    "other_skills": [
+      {
+        "concerto": 18.0,
+        "dmg_percent": 105.0,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 1,
+        "modifier": [
+          "Sk",
+          "Fu"
+        ],
+        "name": "Skill: Passionate Variation",
+        "resonance": 10.0,
+        "time": 0.8
+      },
+      {
+        "concerto": 18.0,
+        "dmg_percent": 105.0,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 1,
+        "modifier": [
+          "Sk",
+          "Fu"
+        ],
+        "name": "Skill: Passionate Variation (Swap)",
+        "resonance": 10.0,
+        "time": 0.25
+      },
+      {
+        "concerto": 18.0,
+        "dmg_percent": 164.0,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 1,
+        "modifier": [
+          "Sk",
+          "Fu"
+        ],
+        "name": "Forte: Fury Fogue",
+        "resonance": 10.0,
+        "time": 1.15
+      },
+      {
+        "concerto": 18.0,
+        "dmg_percent": 0.0,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 0,
+        "modifier": [
+          "Sk",
+          "Fu"
+        ],
+        "name": "Forte: Fury Fogue (Cancel)",
+        "resonance": 0.0,
+        "time": 0.25
+      },
+      {
+        "concerto": 20.0,
+        "dmg_percent": 80.0,
+        "forte": 0.0,
+        "freeze_time": 1.96,
+        "hits": 1,
+        "modifier": [
+          "Rl",
+          "Fu"
+        ],
+        "name": "Liberation: Violent Finale",
+        "resonance": -125.0,
+        "time": 2.02
+      },
+      {
+        "concerto": 2.77,
+        "dmg_percent": 24.29,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 1,
+        "modifier": [
+          "No",
+          "Fu"
+        ],
+        "name": "Basic: Impromptu Show 1 (Cancel)",
+        "resonance": 0.86,
+        "time": 0.25
+      },
+      {
+        "concerto": 12.09,
+        "dmg_percent": 106.12,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 5,
+        "modifier": [
+          "No",
+          "Fu"
+        ],
+        "name": "Basic: Impromptu Show 4 (Swap)",
+        "resonance": 3.76,
+        "time": 0.25
+      },
+      {
+        "concerto": 4.8,
+        "dmg_percent": 42.28,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 4,
+        "modifier": [
+          "No",
+          "Fu"
+        ],
+        "name": "Basic: Impromptu Show 4 (Halfway Cancel)",
+        "resonance": 1.48,
+        "time": 0.6
+      },
+      {
+        "concerto": 12.09,
+        "dmg_percent": 106.12,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 5,
+        "modifier": [
+          "No",
+          "Fu"
+        ],
+        "name": "Basic: Impromptu Show 4 (Cancel)",
+        "resonance": 3.76,
+        "time": 0.92
+      },
+      {
+        "concerto": 25.7,
+        "dmg_percent": 225.4,
+        "forte": 0.0,
+        "freeze_time": 0.0,
+        "hits": 9,
+        "modifier": [
+          "No",
+          "Fu"
+        ],
+        "name": "Basic: Impromptu Show x4",
+        "resonance": 8.0,
+        "time": 3.17
+      }
+    ],
+    "outro": {
+      "concerto": -100.0,
+      "dmg_percent": 0.0,
+      "forte": 0.0,
+      "hits": 0,
+      "modifier": [
+        "Ou"
+      ],
+      "name": "Outro: Rage Transportation",
+      "resonance": 0.0,
+      "time": 0.0
+    },
+    "resonance_chains": [
+      {
+        "applies_to": "Self",
+        "name": "Solitary Etude (Applied Dynamically)"
+      },
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 0.0,
+        "name": "Hypocritical Hymn",
+        "stack_interval": 20.0,
+        "stack_limit": 0.0,
+        "type1": "BuffEnergy",
+        "type3": "Resonance",
+        "value_percent": 10.0
+      },
+      {
+        "active": false,
+        "applies_to": "Self",
+        "duration": 0.0,
+        "name": "Flaming Recitativo",
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Crit Dmg",
+        "value_percent": 30.0
+      },
+      {
+        "applies_to": "Self",
+        "name": "Cathartic Waltz (Applied Dynamically)"
+      },
+      {
+        "applies_to": "Self",
+        "name": "Funerary Quartet"
+      },
+      {
+        "active": false,
+        "applies_to": "Team",
+        "duration": 20.0,
+        "name": "Apoplectic Instrumental",
+        "stack_interval": 0.0,
+        "stack_limit": 0.0,
+        "type1": "Buff",
+        "type3": "Attack",
+        "value_percent": 20.0
+      }
+    ]
+  }
+]
