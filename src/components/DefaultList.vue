@@ -3,11 +3,9 @@
 </script>
 
 <template>
-  <div>
-    <h1>
-      This is the weapons view
-    </h1>
-  </div>
+ <h1>
+   This is the default list
+ </h1>
 </template>
 
 <style scoped>
